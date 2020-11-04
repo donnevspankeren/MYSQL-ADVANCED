@@ -19,7 +19,7 @@ WHERE game.name LIKE "a%";
 ```
 Voor de leesbaarheid is de SQL query onderverdeeld in meerdere regels. Die kun je zelf ook doen in SQL tab in PhpMyAdmin, de query is pas afgesloten als je dit aangeeft met een `;`
 
-
+ 
 ## Leerdoelen
 
 1. Ik kan meerdere JOIN clausules toevoegen aan een SQL query en deze uitvoeren
